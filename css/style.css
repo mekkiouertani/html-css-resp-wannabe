@@ -164,4 +164,13 @@ img {
         margin-bottom: 70px;
     }
     
+    .why-us{
+        padding: 3rem 0;
+        background-color: #222222;
+        margin-bottom: 0;  
+    }
+
+    .steps{
+        margin-bottom: 0;
+    }
 }
